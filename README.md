@@ -18,6 +18,11 @@ Monitora dispositivos na rede utilizando ARP e exporta métricas para Prometheus
 - Prometheus
 - Raspberry Pi
 
+##Instalaçao
+
+'''bash
+pip install -r requirements.txt
+
 ## Execução
 
 - python3 mac_presence_exporter.py
