@@ -20,8 +20,8 @@ Monitora dispositivos na rede utilizando ARP e exporta métricas para Prometheus
 
 ##Instalaçao
 
-´´´bash
-pip install -r requirements.txt
+- bash
+- pip install -r requirements.txt
 
 ## Execução
 
