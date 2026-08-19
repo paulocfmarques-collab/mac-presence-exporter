@@ -54,8 +54,8 @@ O MAC Presence Exporter identifica dispositivos conectados à rede através do e
 ├── mac_presence_exporter.py
 ├── config.json
 ├── requirements.txt
-├── state.json
-├── devices.json
+├── device_state.json
+├── mac_dictionary.json
 └── README.md
 ```
 

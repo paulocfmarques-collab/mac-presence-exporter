@@ -1,0 +1,7 @@
+{
+  "_comments": [
+    "Este arquivo é lido pelo MAC Presence Exporter",
+    "XX:XX:XX:XX:XX:XX - corresponde o MAC do dispositivo"
+  ],
+  "XX:XX:XX:XX:XX:XX": "Nome amigável do dispositivo"
+}

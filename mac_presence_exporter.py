@@ -15,11 +15,11 @@ from psycopg2 import sql
 
 
 # Arquivo JSON fornecido
-MAC_FILE = "/home/pmarques/dvl/gera_targets/mac_dictionary.json"
+MAC_FILE = "mac_dictionary.json"
 MAC_LOCALHOST = "dc:a6:32:b3:64:70"
-STATE_FILE = "/home/pmarques/dvl/gera_targets/device_state.json"
-LOG_FILE = "/home/pmarques/dvl/gera_targets/mac_presence_exporter.log"
-CONFIG_FILE = "/home/pmarques/dvl/gera_targets/config.json"
+STATE_FILE = "device_state.json"
+LOG_FILE = "mac_presence_exporter.log"
+CONFIG_FILE = "config.json"
 SECTION = "mac_presence_exporter"
 DATABASE_INFO = "database_server"
 

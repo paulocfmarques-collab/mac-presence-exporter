@@ -1,0 +1,13 @@
+{
+    "mac_presence_exporter": {
+        "debug": "False",
+        "time_active": 1814400, 
+        "time_online_to_reset": 1814400
+    },
+    "database_server": {
+        "host": "",
+        "database": "",
+        "user": "",
+        "password": ""
+    }
+}
