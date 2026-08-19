@@ -18,9 +18,9 @@ Monitora dispositivos na rede utilizando ARP e exporta métricas para Prometheus
 - Prometheus
 - Raspberry Pi
 
-##Instalaçao
+## Instalaçao
 
-- bash
+''' bash
 - pip install -r requirements.txt
 
 ## Execução
