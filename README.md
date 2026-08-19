@@ -1,2 +1,23 @@
-# mac-presence-exporter
-Monitoramento de presença de dispositivos usando Python, PostgreSQL, Prometheus e Grafana.
+# MAC Presence Exporter
+
+Monitora dispositivos na rede utilizando ARP e exporta métricas para Prometheus.
+
+## Recursos
+
+- Detecção por MAC Address
+- Histórico de presença
+- PostgreSQL
+- Prometheus Exporter
+- Dashboards Grafana
+
+## Tecnologias
+
+- Python
+- PostgreSQL
+- Grafana
+- Prometheus
+- Raspberry Pi
+
+## Execução
+
+- python3 mac_presence_exporter.py
